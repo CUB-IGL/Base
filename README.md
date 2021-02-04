@@ -25,4 +25,7 @@ If you're new to git and/or GitHub, Darius has provided an introductory step-by-
 > Basecamp is a project-management software while GitHub is a hoster of a version control system (git).
 > We think that GitHub is a better choice for the goals described above and are therefore happy to try to establish it next to Basecamp.
 
+If you happen to have created scripts or other types of code please create a repo on this site in the next days.  
+For everyone unfamiliar with git and/or GitHub, Darius has written a [step-by-step guide on how to upload your work as a new repo onto GitHub](https://github.com/CUB-IGL/Wiki/blob/main/CreateRepo.md).
+
 We hope that this effort will make the highly technical work processes in IGL more efficient, increase safety regarding loss of work and data, as well as improve collaboration and help to learn from others.
