@@ -11,12 +11,12 @@ This brings several advantages with it:
 * Comfortable way of collaboration, discussion, showcasing of code :speaking_head:
 * Possibility of [citing codes in scientific papers](https://guides.github.com/activities/citable-code/) :page_facing_up:
 
-Additionally we would like to provide an 'Onboarding' repository for new members of IGL in the future with helpful guides and links to tutorials on how to use commonly used technologies and get familiar with concepts such as for tractography, connectomics, scripting, scientific writing, TMS and more.
+Additionally we would like to provide an [Onboarding](https://github.com/CUB-IGL/Onboarding) repository for new members of IGL in the future with helpful guides and links to tutorials on how to use commonly used technologies and get familiar with concepts such as for tractography, connectomics, scripting, scientific writing, TMS and more.
 
 The planned structure for our repos is planned to be as follows:
-- The *Common tasks* repo will provide blueprints for tasks like preprocessing of DWI volumes, common tractography use-cases, connectome construction, Matlab and R anaylsis and more
-- *Project specific* repos will be created for each individual project or study
-- The [Wiki](https://github.com/CUB-IGL/Wiki/) repo will hold some Tutorials as well as an [**Index**](https://github.com/CUB-IGL/Wiki/blob/main/Index.md) used to find specific scripts and code-snippets.
+- The [Common tasks](https://github.com/CUB-IGL/Common-Tasks) repo will provide blueprints for tasks like preprocessing of DWI volumes, common tractography use-cases, connectome construction, Matlab and R anaylsis and more
+- **Project specific repos** will be created for each individual project or study
+- The [**Wiki**](https://github.com/CUB-IGL/Wiki/) repo will hold some Tutorials as well as an [**Index**](https://github.com/CUB-IGL/Wiki/blob/main/Index.md) used to find specific scripts and code-snippets.
 
 If you're new to git and/or GitHub, Darius has provided an introductory step-by-step guide on how to bring your work on GitHub [here](https://github.com/CUB-IGL/Wiki/blob/main/CreateRepo.md).
 
