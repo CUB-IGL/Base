@@ -17,7 +17,7 @@ If you are new to Git please work through this great introduction:
 Further information on git and github can be found here:
 
 The planned structure for our repos is planned to be as follows:
-- This *Index* Repo provides a starting point and overview of the other repos. Below you find a list of all the repos by project/study as well as by used technologies/analysis methods.
+- This *Index* Repo provides a starting point and overview of the other repos. [Here](https://github.com/CUB-IGL/Wiki/blob/main/Index.md) you find a list of all the repos by project/study as well as by used technologies/analysis methods (you need to have access rights for this. Please contact Darius and tell your GH username)
 - A *Common tasks* repo will provide blueprints for tasks like preprocessing of DWI volumes, common tractography use-cases, connectome construction and more
 - *Project specific* repos will be created for each individual project or study
 
