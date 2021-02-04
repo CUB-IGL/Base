@@ -1,6 +1,6 @@
 # Central Code Storage of the Image Guidance Lab
 
-Hey there :wave:
+Hey there! :wave:
 
 Lucius, Ziqian and Darius thought about bringing some order into all the important scripts and other code-fragments floating around.
 
